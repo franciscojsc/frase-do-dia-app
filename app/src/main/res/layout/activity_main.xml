@@ -9,6 +9,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button
+        android:id="@+id/button_nova_frase"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="40sp"
@@ -18,10 +19,11 @@
         />
 
     <TextView
+        android:id="@+id/text_nova_frase"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Hello World!"
-        android:textSize="50sp"
+        android:text=""
+        android:textSize="30sp"
         android:textColor="#fff"
         android:gravity="center"
         />
