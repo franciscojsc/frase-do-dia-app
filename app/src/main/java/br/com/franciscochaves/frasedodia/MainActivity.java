@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String[] frases = {
             "Se você buscar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos",
-            "O sucesso normalmente vem para que setá ocupado demais para procurar por ele",
+            "O sucesso normalmente vem para quem está ocupado demais para procurar por ele",
             "Se você não está disposto a arriscar, esteja disposto a uma vida comum"
     };
 
