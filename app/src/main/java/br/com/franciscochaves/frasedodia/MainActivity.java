@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Button botaoNovaFrase;
 
     private String[] frases = {
-            "Se você raçar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos",
+            "Se você buscar metas absurdamente altas e falhar, seu fracasso será muito melhor que o sucesso de todos",
             "O sucesso normalmente vem para que setá ocupado demais para procurar por ele",
             "Se você não está disposto a arriscar, esteja disposto a uma vida comum"
     };
